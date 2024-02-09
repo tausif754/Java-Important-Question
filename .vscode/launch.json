@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HashingExample",
+      "request": "launch",
+      "mainClass": "HashingExample",
+      "projectName": "Java_debad47d"
+    },
+    {
+      "type": "java",
+      "name": "hashMapExample",
+      "request": "launch",
+      "mainClass": "hashMapExample",
+      "projectName": "Java_debad47d"
+    },
+    {
+      "type": "java",
       "name": "print2Largest",
       "request": "launch",
       "mainClass": "print2Largest",
