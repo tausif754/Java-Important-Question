@@ -7,6 +7,8 @@ public class HashingExample {
     HashMap<String, Integer> map=new HashMap<>();
     //insertion
     map.put("Tausif",47);
+    map.put("Zaid",57);
+    map.put("Imam",11);
     System.out.println(map);
 
 
