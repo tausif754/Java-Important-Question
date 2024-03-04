@@ -17,9 +17,10 @@ public class maxFreq {
         if(e.getValue()>maxFreq){
             maxFreq=e.getValue();
             ansKey=e.getKey();
+            
+        }
             System.out.println(maxFreq);
             System.out.print(ansKey);
-        }
     }
     
     
